@@ -1,6 +1,7 @@
 # simple kinda rpg game
 ## map
-big map
+2d map
+big map(int limit)
 procedural generation
 locations:
 villages,dungeons,castles,caves
@@ -16,7 +17,17 @@ equipment
 classes
 name
 skills
-stats
+### stats:
+- healthpoints
+- mana
+- stamina
+- strength
+- endurance
+- vitality
+- defence
+- intilligence
+- agility
+- dexterity
 
 ## battle
 enemies
